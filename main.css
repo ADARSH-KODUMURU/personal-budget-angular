@@ -115,3 +115,13 @@ div.chart{
     color:sienna;
 }
 
+.skip
+{
+    display: block;
+    padding: 0 120px;
+    line-height: 120px;
+    font-size: 1.4em;
+    text-decoration: none;
+    color: #0f5965;
+}
+
